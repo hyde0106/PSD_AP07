@@ -10,5 +10,5 @@ Sistem ini akan mengimplementasikan file handling. List barang yang tersedia bes
 - Penambahan / pengurangan total barang
 
 ## Testing Result
-
+- 
 
