@@ -1,0 +1,13 @@
+MENU :
+INDOMIE/PCS 3500
+MINYAK/LITER 13000
+BERAS/KG 15000
+GULAJAWA/KG 18000
+------------------------------
+List Belanja :
+-------ISI DIBAWAH SINI-------
+MINYAK              2
+INDOMIE             5
+BERAS               3
+GULAJAWA            1
+------------------------------
